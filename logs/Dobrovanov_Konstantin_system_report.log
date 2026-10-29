@@ -1,0 +1,78 @@
+===== SYSTEM REPORT =====
+Student: Dobrovanov Konstantin
+Date and time: Thu Oct 29 03:26:18 PM UTC 2026
+Username: kolislv
+Operating system:
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="26.04"
+VERSION="26.04.1 LTS (Resolute Raccoon)"
+VERSION_CODENAME=resolute
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=resolute
+LOGO=ubuntu-logo
+Kernel version:
+7.0.0-42-generic
+CPU information:
+Architecture:                            x86_64
+CPU op-mode(s):                          32-bit, 64-bit
+Address sizes:                           39 bits physical, 48 bits virtual
+Byte Order:                              Little Endian
+CPU(s):                                  5
+On-line CPU(s) list:                     0-4
+Vendor ID:                               GenuineIntel
+Model name:                              11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+CPU family:                              6
+Model:                                   141
+Thread(s) per core:                      1
+Core(s) per socket:                      5
+Socket(s):                               1
+Stepping:                                1
+BogoMIPS:                                5376.00
+Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch fsgsbase bmi1 avx2 bmi2 invpcid rdseed adx clflushopt sha_ni arat md_clear flush_l1d arch_capabilities
+Hypervisor vendor:                       KVM
+Virtualization type:                     full
+L1d cache:                               240 KiB (5 instances)
+L1i cache:                               160 KiB (5 instances)
+L2 cache:                                6.3 MiB (5 instances)
+L3 cache:                                60 MiB (5 instances)
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-4
+Vulnerability Gather data sampling:      Unknown: Dependent on hypervisor status
+Vulnerability Ghostwrite:                Not affected
+Vulnerability Indirect target selection: Mitigation; Aligned branch/return thunks
+Vulnerability Itlb multihit:             Not affected
+Vulnerability L1tf:                      Not affected
+Vulnerability Mds:                       Not affected
+Vulnerability Meltdown:                  Not affected
+Vulnerability Mmio stale data:           Not affected
+Vulnerability Old microcode:             Not affected
+Vulnerability Reg file data sampling:    Not affected
+Vulnerability Retbleed:                  Not affected
+Vulnerability Spec rstack overflow:      Not affected
+Vulnerability Spec store bypass:         Vulnerable
+Vulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:                Mitigation; Retpolines; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Retpoline
+Vulnerability Srbds:                     Not affected
+Vulnerability Tsa:                       Not affected
+Vulnerability Tsx async abort:           Not affected
+Vulnerability Vmscape:                   Not affected
+Memory information:
+               total        used        free      shared  buff/cache   available
+Mem:           6.9Gi       2.3Gi       1.8Gi        42Mi       2.9Gi       4.6Gi
+Swap:             0B          0B          0B
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.4G  3.3M  1.4G   1% /run
+/dev/sda2        30G  6.6G   22G  24% /
+tmpfs           3.5G     0  3.5G   0% /dev/shm
+tmpfs           3.5G  8.0K  3.5G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           704M  108K  704M   1% /run/user/1000
+=========================
