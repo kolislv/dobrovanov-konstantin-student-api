@@ -2,8 +2,7 @@ Student API Project
 
 Student: Dobrovano Konstantin
 
-This project demonstrates Linux administration, Git, Docker, and Jenkins on Ubuntu.
-
+This project demonstrates Linux administration, Git, Docker, and Jenkins on Ubuntu for a student project.
 
 
 Git Workflow
